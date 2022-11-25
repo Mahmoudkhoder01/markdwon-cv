@@ -15,6 +15,20 @@ A lover of web development
 2015 – 2018     *Saba Zreik High School*  
 2018 – 2021     *Computer Science - Lebanese University Faculty of Science Branch 3*  
 
+# SKILLS
+
+* HTML & CSS
+* JS
+* JQuery
+* DOM          
+* Git
+* GitHub
+* SQL
+* NOde js
+* EJS
+* Bootstrap
+* APIS
+* Express js
 
 # PERSONAL ACTIVITIES
 
